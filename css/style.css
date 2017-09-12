@@ -14,8 +14,8 @@ body{
 
 .menu {
     display:flex;
-    background:#d7e6f;
-        justify:space-around;
+    background-color:#d78e6f;
+        justify-content:space-around;
         list-style-type:none;
 }
 
@@ -32,7 +32,9 @@ body{
     background-color: plum;
 }
     
-
+#favorite-sites img {
+    max-width: 200px;
+}
 footer {
     Background-color:coral;
     margin:0;
