@@ -1,6 +1,18 @@
+/*
+COLORS:
+Orange:#FFB52B
+Light Orange:#FFBE45
+Dark Orange:#B2790F
+Blue:#004FB2
+Light Blue:#2B88FF
+*/
+
+
 body{
     background-color: none;
+    Color:#004FB2;
 }
+
 
 #header {
     width:100%
